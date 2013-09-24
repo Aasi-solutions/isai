@@ -1,0 +1,11 @@
+[PropertyInfo]
+diff,long,false,false, , ,true,<default>
+endTime,Date,false,false, , ,true,<default>
+id,int,false,false, , ,true,<default>
+startTime,Date,false,false, , ,true,<default>
+option,String,false,false,option,option,true,<default>
+[IconNames]
+
+
+
+

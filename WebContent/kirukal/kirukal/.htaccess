@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^kirukal.imayam.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www.kirukal.imayam.org$
+RewriteRule ^(.*)$ http://imayam.org/kirukal/$1 [R=301,L]
+# BEGIN WordPress
+# END WordPress
+

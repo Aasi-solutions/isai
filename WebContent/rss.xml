@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+   <channel>
+      <title>Imayam</title>
+      <link>http://www.imayam.org/</link>
+      <description>List to Tamil Songs Online</description>
+      <item>
+         <title>Asal</title>
+         <link>http://www.imayam.org/songs/radio/index.jsp?action=playlist&amp;artist=Asal</link>
+<description>Ajith's Asal Songs</description>
+      </item>
+      <item>
+         <title>Kutty</title>
+         <link>http://www.imayam.org/songs/radio/index.jsp?action=playlist&amp;artist=Kutty</link>
+<description>Kutty Songs</description>
+      </item>
+      <item>
+         <title>Goa</title>
+         <link>http://www.imayam.org/songs/radio/index.jsp?action=playlist&amp;artist=Goa</link>
+<description>Yuvan's Goa Songs</description>
+      </item>
+   </channel>
+</rss>

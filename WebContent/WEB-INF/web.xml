@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+  <display-name>SmartLinks</display-name>
+  <listener>
+<listener-class>com.imayam.music.ImayamListener</listener-class>
+</listener>
+<error-page>
+		<exception-type>java.lang.Throwable</exception-type>
+		<location>/error1.jsp</location>
+	</error-page>
+  <servlet>
+    <servlet-name>log4j-init</servlet-name>
+    <servlet-class>com.imayam.logging.Log4jInit</servlet-class>
+    <init-param>
+      <param-name>log4j-init-file</param-name>
+      <param-value>WEB-INF/classes/log4j.lcf</param-value>
+    </init-param>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet>
+    <servlet-name>CallBackServlet</servlet-name>
+    <servlet-class>com.imayam.ticket.StatusServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ControllerServlet</servlet-name>
+    <servlet-class>com.imayam.smartlinks.ControllerServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>TicketControllerServlet</servlet-name>
+    <servlet-class>com.imayam.ticket.ControllerServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>TestControllerServlet</servlet-name>
+    <servlet-class>com.imayam.smartlinks.TestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>MusicControllerServlet</servlet-name>
+    <servlet-class>com.imayam.music.ControllerServlet</servlet-class>
+  </servlet>
+   <servlet>
+    <servlet-name>FileUploadServlet</servlet-name>
+    <servlet-class>com.imayam.music.FileUploadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Auto1</servlet-name>
+    <servlet-class>com.imayam.music.Auto1</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Auto2</servlet-name>
+    <servlet-class>com.imayam.music.Auto2</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Auto</servlet-name>
+    <servlet-class>com.imayam.music.Auto</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CallBackServlet</servlet-name>
+    <url-pattern>/getstatus</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>Auto</servlet-name>
+    <url-pattern>/auto</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>Auto1</servlet-name>
+    <url-pattern>/auto1</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>Auto2</servlet-name>
+    <url-pattern>/auto2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CallBackServlet</servlet-name>
+    <url-pattern>/getstatus</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ControllerServlet</servlet-name>
+    <url-pattern>/controller</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TicketControllerServlet</servlet-name>
+    <url-pattern>/ticket</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TestControllerServlet</servlet-name>
+    <url-pattern>/gre</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MusicControllerServlet</servlet-name>
+    <url-pattern>/music</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FileUploadServlet</servlet-name>
+    <url-pattern>/adminaction</url-pattern>
+  </servlet-mapping>
+
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+ 
+  <taglib>
+    <taglib-uri>http://java.sun.com/jstl/core</taglib-uri>
+    <taglib-location>/WEB-INF/tld/c.tld</taglib-location>
+  </taglib>
+  
+ 
+  
+  <taglib>
+    <taglib-uri>http://java.sun.com/jstl/fmt</taglib-uri>
+    <taglib-location>/WEB-INF/tld/fmt.tld</taglib-location>
+  </taglib>
+ 
+</web-app>

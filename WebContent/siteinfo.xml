@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<siteinfo xmlns="http://a9.com/-/spec/siteinfo/1.0/">
+  <webmenu>
+    <name>Imayam</name>
+    <menu>
+      <item>
+        <text>Imayam Home</text>
+        <url>http://www.imayam.org</url>
+      </item>
+      <item>
+        <text>Imayam SmartLinks</text>
+        <url>http://www.imayam.org</url>
+      </item>
+      <item>
+        <text>Imayam Songs</text>
+        <url>http://www.imayam.org/forum/index.php?c=6</url>
+      </item>
+      <item>
+        <text>Imayam News</text>
+        <url>http://www.imayam.org/news/</url>
+      </item>
+      <item>
+        <text>Imayam Forum</text>
+        <url>http://www.imayam.org/forum/</url>
+      </item>
+      <item>
+        <text>Imayam Feedback</text>
+        <url>http://www.imayam.org/forum/viewforum.php?f=27</url>
+      </item>
+      <item>
+        <text>Imayam Radio</text>
+        <url>http://songs.imayam.org/</url>
+      </item>
+      <item>
+        <text>Imayam Movies</text>
+        <url>http://movies.imayam.org/</url>
+      </item>
+    </menu>
+  </webmenu>
+</siteinfo>

@@ -1,0 +1,91 @@
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>Aasai : Pulveli</title>
+			<location>http://imayam.org/songs/Aasai/Aasai-Pulveli.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Aasai : Meenamma</title>
+			<location>http://imayam.org/songs/Aasai/Aasai-Meenamma.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Aasai : Thilothama</title>
+			<location>http://imayam.org/songs/Aasai/Aasai-Thilothama.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Aasai : Konja Naal</title>
+			<location>http://imayam.org/songs/Aasai/Aasai-KonjaNaal.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Aasai : Shock Adikkithu</title>
+			<location>http://imayam.org/songs/Aasai/Aasai-ShockAdikkithu.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Nerukku Ner - Agila Agila</title>
+			<location>http://imayam.org/songs/NerukkuNer/NerukkuNer-AgilaAgila.mp3</location>
+		</track>	
+		<track>
+			<title>Nerukku Ner - Manam Virumbathy (Female)</title>
+			<location>http://imayam.org/songs/NerukkuNer/NerukkuNer-ManamVirumbathy(Female).mp3</location>
+		</track>	
+		<track>
+			<title>Nerukku Ner - Thudikkindra Kadhal</title>
+			<location>http://imayam.org/songs/NerukkuNer/NerukkuNer-ThudikkindraKadhal.mp3</location>
+		</track>	
+		<track>
+			<title>Nerukku Ner - Aval Varuvaalaa</title>
+			<location>http://imayam.org/songs/NerukkuNer/NerukkuNer-AvalVaruvaalaa.mp3</location>
+		</track>	
+		<track>
+			<title>Nerukku Ner- Engengae</title>
+			<location>http://imayam.org/songs/NerukkuNer/NerukkuNer-Engengae.mp3</location>
+		</track>	
+		<track>
+			<title>Nerukku Ner- Manam Virumbathy (Male)</title>
+			<location>http://imayam.org/songs/NerukkuNer/NerukkuNer-ManamVirumbathy(Male).mp3</location>
+		</track>	
+		<track>
+			<title>Vyaabaari-Vetrigai</title>
+			<location>http://www.imayam.org/songs/Vyaabaari/Vyaabaari-Vetrigai.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vyaabaari</info>
+		</track>
+		<track>
+			<title>Vyaabaari-Tha Tha Namitha</title>
+			<location>http://www.imayam.org/songs/Vyaabaari/Vyaabaari-ThaThaNamitha.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vyaabaari</info>
+		</track>
+		<track>
+			<title>Vyaabaari-Kadi Kadi Koshu Kadi</title>
+			<location>http://www.imayam.org/songs/Vyaabaari/Vyaabaari-KadiKadiKoshuKadi.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vyaabaari</info>
+		</track>
+		<track>
+			<title>Vyaabaari-July Maadham</title>
+			<location>http://www.imayam.org/songs/Vyaabaari/Vyaabaari-JulyMaadham.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vyaabaari</info>
+		</track>
+		<track>
+			<title>Vyaabaari-Feel of Kosu kadi</title>
+			<location>http://www.imayam.org/songs/Vyaabaari/Vyaabaari-FeelOfKosukadi.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vyaabaari</info>
+		</track>
+		<track>
+			<title>Vyaabaari-Aasa Patta</title>
+			<location>http://www.imayam.org/songs/Vyaabaari/Vyaabaari-AasaPatta.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vyaabaari</info>
+		</track>
+
+
+	</trackList>
+</playlist>
+
+
+
+	</trackList>
+</playlist>

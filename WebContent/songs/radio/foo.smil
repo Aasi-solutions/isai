@@ -1,0 +1,13 @@
+<smil>
+  <body>
+    <seq>
+      <audio src="http://www.imayam.org/songs/2010/SollaThudikkuthuManasu/PooveSempoove-M.mp3"/>
+      <audio src="http://www.imayam.org/songs/2010/SollaThudikkuthuManasu/PooveSempoove-F.mp3"/>
+      <audio src="http://www.imayam.org/songs/2010/SollaThudikkuthuManasu/VoomaiNenjin.mp3"/>
+      <audio src="http://www.imayam.org/songs/2010/SollaThudikkuthuManasu/SandhoshamIniSandhosham.mp3"/>
+      <audio src="http://www.imayam.org/songs/2010/SollaThudikkuthuManasu/KallukkulleVandha.mp3"/>
+      <audio src="http://www.imayam.org/songs/2010/SollaThudikkuthuManasu/SollaThudikkuthuManasu.mp3"/>
+      <audio src="http://www.imayam.org/songs/2010/SollaThudikkuthuManasu/Thenmozhi.mp3"/>
+    </seq>
+  </body>
+</smil>

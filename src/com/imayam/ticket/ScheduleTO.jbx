@@ -1,0 +1,23 @@
+[PropertyInfo]
+address1,String,false,false, , ,true,<default>
+capacity,int,false,false, , ,true,<default>
+city,String,false,false, , ,true,<default>
+imageLink,String,false,false, , ,true,<default>
+isThirdPartyLink,String,false,false, , ,false,<default>
+movieId,int,false,false, , ,true,<default>
+movieName,String,false,false, , ,true,<default>
+notes,String,false,false, , ,true,<default>
+promotion,String,false,false, , ,true,<default>
+scheduleDateTime,Timestamp,false,false, , ,true,<default>
+scheduleId,int,false,false, , ,true,<default>
+state,String,false,false, , ,true,<default>
+thirdPartyLink,String,false,false, , ,false,<default>
+ticketsSold,int,false,false, , ,true,<default>
+venueId,int,false,false, , ,true,<default>
+venueName,String,false,false, , ,true,<default>
+zip,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

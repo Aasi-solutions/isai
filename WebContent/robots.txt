@@ -1,0 +1,8 @@
+User-agent: * 
+Disallow: /images/Varun/
+Disallow: /images/Babyshower/
+Disallow: /images/EastCoast2005/
+Disallow: /images/Sibi/
+Disallow: /images/varun-portrait/
+Disallow: /images/home/
+Disallow: /smartlinks/

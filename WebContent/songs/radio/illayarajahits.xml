@@ -1,0 +1,294 @@
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+
+		<track>
+			<title>Vikram : Eann Jodi</title>
+			<location>http://imayam.org/songs/Vikram/Vikram_Eann_Jodi.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Vikram : Meendum</title>
+			<location>http://imayam.org/songs/Vikram/Vikram_Meendum.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Vikram : Sippikkul</title>
+			<location>http://imayam.org/songs/Vikram/Vikram_Sippikkul.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Vikram : Vanithamani</title>
+			<location>http://imayam.org/songs/Vikram/Vikram_Vanithamani.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Vikram : Vikram</title>
+			<location>http://imayam.org/songs/Vikram/Vikram_Vikram.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Velaikaran : Vaa Vaa</title>
+			<location>http://imayam.org/songs/Velaikaran/Vaa_Vaa.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Velaikaran : Thottathile</title>
+			<location>http://imayam.org/songs/Velaikaran/Thottathile.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Velaikaran : Velai Illathavanthaan</title>
+			<location>http://imayam.org/songs/Velaikaran/Velai_Illathavanthaan.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Velaikaran : Thavikiraen</title>
+			<location>http://imayam.org/songs/Velaikaran/Mamanukku.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Velaikaran : Pethu</title>
+			<location>http://imayam.org/songs/Velaikaran/Petha.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Time : Thavikiraen</title>
+			<location>http://imayam.org/songs/Time/Time-Thavikiraen.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Time : Naan Thanga</title>
+			<location>http://imayam.org/songs/Time/Time-NaanThanga.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Time : Kathal Neethana</title>
+			<location>http://imayam.org/songs/Time/Time-KathalNeethana.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Maaya Kannadi-Introduction</title>
+			<location>http://www.imayam.org/songs/MaayaKannadi/MaayaKannadi-Introduction.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Maaya Kannadi</info>
+		</track>
+		<track>
+			<title>Maaya Kannadi-Kaadhal Indru</title>
+			<location>http://www.imayam.org/songs/MaayaKannadi/MaayaKannadi-KaadhalIndru.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Maaya Kannadi</info>
+		</track>
+		<track>
+			<title>Maaya Kannadi-Kaasu Kaiyil</title>
+			<location>http://www.imayam.org/songs/MaayaKannadi/MaayaKannadi-KaasuKaiyil.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Maaya Kannadi</info>
+		</track>
+		<track>
+			<title>Maaya Kannadi-Konjam Konjam</title>
+			<location>http://www.imayam.org/songs/MaayaKannadi/MaayaKannadi-KonjamKonjam.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Maaya Kannadi</info>
+		</track>
+		<track>
+			<title>Maaya Kannadi-Oru Mayalogam</title>
+			<location>http://www.imayam.org/songs/MaayaKannadi/MaayaKannadi-OruMayalogam.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Maaya Kannadi</info>
+		</track>
+		<track>
+			<title>Maaya Kannadi-Oyealae Yenga</title>
+			<location>http://www.imayam.org/songs/MaayaKannadi/MaayaKannadi-OyealaeYenga.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Maaya Kannadi</info>
+		</track>
+		<track>
+			<title>Maaya Kannadi-Ulakilae Azhagi</title>
+			<location>http://www.imayam.org/songs/MaayaKannadi/MaayaKannadi-UlakilaeAzhagi.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Maaya Kannadi</info>
+		</track>
+
+		<track>
+			<title>Vaazhvey Maayam : Vanthanam En</title>
+			<location>http://imayam.org/songs/VaazhveyMaayam/VaazhveyMaayam_VanthanamEn.mp3</location>
+		</track>
+		<track>
+			<title>Vaazhvey Maayam : Vaazhvey Maayam</title>
+			<location>http://imayam.org/songs/VaazhveyMaayam/VaazhveyMaayam_VaazhveyMaayam.mp3</location>
+		</track>
+		<track>
+			<title>Vaazhvey Maayam : Neela Vana</title>
+			<location>http://imayam.org/songs/VaazhveyMaayam/VaazhveyMaayam_NeelaVana.mp3</location>
+		</track>
+		<track>
+			<title>Vaazhvey Maayam : Mazhaikkala</title>
+			<location>http://imayam.org/songs/VaazhveyMaayam/VaazhveyMaayam_Mazhaikkala.mp3</location>
+		</track>
+
+
+		<track>
+			<title>Uyarntha Ullam : Engeh En</title>
+			<location>http://imayam.org/songs/UyarnthaUllam/UyarnthaUllam_EngehEn.mp3</location>
+		</track>
+		<track>
+			<title>Uyrantha Ullam : Vanthaal Maha</title>
+			<location>http://imayam.org/songs/UyarnthaUllam/UyranthaUllam_VanthaalMaha.mp3</location>
+		</track>
+		
+		<track>
+			<title>Unnal Mudiyum Thambi : Idhazhil Kadhai</title>
+			<location>http://imayam.org/songs/UnnalMudiyumThambi/Unnal_Mudiyum_Thambi_Idhazhil_Kadhai.mp3</location>
+		</track>
+		<track>
+			<title>Unnal Mudiyum Thambi : Akkam Pakkam</title>
+			<location>http://imayam.org/songs/UnnalMudiyumThambi/Unnal_Mudiyum_Thambi_Akkam_Pakkam.mp3</location>
+		</track>
+		<track>
+			<title>Unnal Mudiyum Thambi : Punjaiyundu</title>
+			<location>http://imayam.org/songs/UnnalMudiyumThambi/Unnal_Mudiyum_Thambi_Punjaiyundu.mp3</location>
+		</track>
+		<track>
+			<title>Unnal Mudiyum Thambi : Unnal Mudiyum</title>
+			<location>http://imayam.org/songs/UnnalMudiyumThambi/Unnal_Mudiyum_Thambi_Unnal_Mudiyum.mp3</location>
+		</track>
+
+
+		<track>
+			<title>Naayagan : Nee Oru Kaadhal</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Naayagan_NeeOruKaadhal.mp3</location>
+		</track>
+		<track>
+			<title>Kavi Kuyil : Chinna Kannan</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/KaviKuyil_ChinnaKannan.mp3</location>
+		</track>
+		<track>
+			<title>Japanil Kalyanaraman : Appappa</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/JapanilKalyanaraman_Appappa.mp3</location>
+		</track>
+		<track>
+			<title>Ilamai Oonjalaadukiradu : Kinnathil</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/IlamaiOonjalaadukiradu_Kinnathil.mp3</location>
+		</track>
+		<track>
+			<title>Dharma Uttham : Oru Thanga Rathathil</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/DharmaUttham_OruThangaRathathil.mp3</location>
+		</track>
+		<track>
+			<title>Dharma Uttham : Agaya Gangai</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/DharmaUttham_AgayaGangai.mp3</location>
+		</track>
+		<track>
+			<title>Janani Janani</title>
+			<location>http://www.imayam.org/songs/Janani_Janani.mp3</location>
+		</track>
+		<track>
+			<title>Atho Varandi</title>
+			<location>http://www.imayam.org/songs/Atho_Varandi.mp3</location>
+		</track>
+		<track>
+			<title>Naan Pollathavan</title>
+			<location>http://www.imayam.org/songs/Naan_Pollathavan.mp3</location>
+		</track>
+		<track>
+			<title>Kaaveriye</title>
+			<location>http://www.imayam.org/songs/ArchanaiPookal/Kaaveriye.mp3</location>
+		</track>
+		<track>
+			<title>Amma Nee Sumantha</title>
+			<location>http://www.imayam.org/songs/AnnaiOruAalayam/Amma_Nee_Sumantha.mp3</location>
+		</track>
+		<track>
+			<title>Appane Appane</title>
+			<location>http://www.imayam.org/songs/AnnaiOruAalayam/Appane_Appane.mp3</location>
+		</track>
+		<track>
+			<title>Rojavai Thalattum</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/NinaivellamNithya-RojavaiThalattum.mp3</location>
+		</track>
+		<track>
+			<title>Paruvamae</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/PARUVAMAE.mp3</location>
+		</track>
+		<track>
+			<title>Vizhiyile</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/NooravathuNaal-Vizhiyile.mp3</location>
+		</track>
+		<track>
+			<title>Aduku Malika</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/Aduku_Malika.mp3</location>
+		</track>
+		<track>
+			<title>Manathile Oru Paatu</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/MANATHILEORUPAATTU_DHAYAMONNU.mp3</location>
+		</track>
+		<track>
+			<title>Enngengo Chellum</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/PattaakkathiBairavan.mp3</location>
+		</track>
+		<track>
+			<title>Oh Vanambadi</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/OhVanambadi-Sathanai.mp3</location>
+		</track>
+		<track>
+			<title>Enathaan Sugamo</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/Enathaan_Sugamo.mp3</location>
+		</track>
+		<track>
+			<title>Maanin Iru Kangal</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/Maanin_Iru_Kangal.mp3</location>
+		</track>
+		<track>
+			<title>Pothi Vachcha Malligai</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/MaNVaasanai-PothiVachchaMalligai.mp3</location>
+		</track>
+		<track>
+			<title>Mounamaneram</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/Salangaioli-Mounamaneram.mp3</location>
+		</track>
+		<track>
+			<title>Roja Ondru Mutham</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/KomberiMookan-RojaOndruMutham.mp3</location>
+		</track>
+		<track>
+			<title>Vaanengum</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/MoondRaamPiRai-VaanengumVaNNa.mp3</location>
+		</track>
+		<track>
+			<title>Pon Maanae</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/NaanSiGappuManiThan-PonMaanae.mp3</location>
+		</track>
+		<track>
+			<title>Guru Vayur Appa</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/GuruVayurAppa.mp3</location>
+		</track>
+		<track>
+			<title>Orumantharappu</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/ORUMANTHARAPPU.mp3</location>
+		</track>
+		<track>
+			<title>Kannil Enna</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/Kannil_Enna.mp3</location>
+		</track>
+		<track>
+			<title>AduthaVarisu-AsaiNooruvagai</title>
+			<location>http://imayam.org/songs/AduthaVarisu/AduthaVarisu_AsaiNooruvagai.mp3</location>
+		</track>
+		<track>
+			<title>AduthaVarisu-Kaaveriye</title>
+			<location>http://imayam.org/songs/AduthaVarisu/Kaaveriye.mp3</location>
+		</track>
+		<track>
+			<title>AduthaVarisu-Pesakoodathu</title>
+			<location>http://imayam.org/songs/AduthaVarisu/Pesakoodathu.mp3</location>
+		</track>
+		<track>
+			<title>Billa-MyNameisBilla</title>
+			<location>http://imayam.org/songs/billa/My_Name_is_Billa.mp3</location>
+		</track>
+		<track>
+			<title>IlamaiOonjalaadukiradu-OreyNaal</title>
+			<location>http://imayam.org/songs/IlamaiOonjalaadukiradu/IlamaiOonjalaadukiradu_OreyNaal.mp3</location>
+		</track>
+		<track>
+			<title>MurattuKaalai-Pothuvaga</title>
+			<location>http://imayam.org/songs/MurattuKaalai/MurattuKaalai_Pothuvaga.mp3</location>
+		</track>
+	</trackList>
+</playlist>

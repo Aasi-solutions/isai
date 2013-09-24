@@ -1,0 +1,20 @@
+[25-Feb-2007 15:51:38] not well-formed (invalid token) at line 22, column 54
+[25-Feb-2007 17:47:10] not well-formed (invalid token) at line 22, column 54
+[25-Feb-2007 18:49:56] not well-formed (invalid token) at line 22, column 54
+[29-May-2007 21:31:07] xml declaration not at start of external entity at line 2, column 0
+[29-May-2007 22:52:55] xml declaration not at start of external entity at line 2, column 0
+[29-Jul-2008 16:21:14] WordPress database error Duplicate key name 'comment_approved' for query ALTER TABLE wp_comments ADD KEY comment_approved (comment_approved) made by dbdelta
+[29-Jul-2008 16:21:14] WordPress database error Duplicate key name 'type_status_date' for query ALTER TABLE wp_posts ADD KEY type_status_date (post_type,post_status,post_date,ID) made by dbdelta
+[01-Sep-2008 20:38:06] WordPress database error Duplicate key name 'comment_approved' for query ALTER TABLE wp_comments ADD KEY comment_approved (comment_approved) made by dbdelta
+[01-Sep-2008 20:38:06] WordPress database error Duplicate key name 'type_status_date' for query ALTER TABLE wp_posts ADD KEY type_status_date (post_type,post_status,post_date,ID) made by dbdelta
+[10-Jan-2009 06:20:56] WordPress database error Duplicate key name 'comment_approved' for query ALTER TABLE wp_comments ADD KEY comment_approved (comment_approved) made by wp_upgrade, make_db_current_silent, dbdelta
+[10-Jan-2009 06:20:56] WordPress database error Duplicate key name 'type_status_date' for query ALTER TABLE wp_posts ADD KEY type_status_date (post_type,post_status,post_date,ID) made by wp_upgrade, make_db_current_silent, dbdelta
+[18-Jun-2009 22:14:23] WordPress database error Duplicate key name 'comment_approved' for query ALTER TABLE wp_comments ADD KEY comment_approved (comment_approved) made by wp_upgrade, make_db_current_silent, dbdelta
+[18-Jun-2009 22:14:23] WordPress database error Duplicate key name 'type_status_date' for query ALTER TABLE wp_posts ADD KEY type_status_date (post_type,post_status,post_date,ID) made by wp_upgrade, make_db_current_silent, dbdelta
+[24-Oct-2009 21:47:17] PHP Warning:  Invalid argument supplied for foreach() in /home/imayam2/public_html/kirukal/wp-content/plugins/attachment-extender/attachment-extender.php on line 66
+[24-Oct-2009 21:47:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imayam2/public_html/kirukal/wp-content/plugins/attachment-extender/attachment-extender.php:66) in /home/imayam2/public_html/kirukal/wp-includes/classes.php on line 1586
+[17-Mar-2010 10:25:41] WordPress database error Duplicate key name 'comment_approved' for query ALTER TABLE wp_comments ADD KEY comment_approved (comment_approved) made by wp_upgrade, make_db_current_silent, dbdelta
+[17-Mar-2010 10:25:41] WordPress database error Duplicate key name 'type_status_date' for query ALTER TABLE wp_posts ADD KEY type_status_date (post_type,post_status,post_date,ID) made by wp_upgrade, make_db_current_silent, dbdelta
+[17-Mar-2010 10:27:12] PHP Warning:  Invalid argument supplied for foreach() in /home/imayam2/public_html/kirukal/wp-admin/edit-comments.php on line 40
+[17-Mar-2010 10:27:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imayam2/public_html/kirukal/wp-admin/edit-comments.php:40) in /home/imayam2/public_html/kirukal/wp-includes/pluggable.php on line 868
+[07-Feb-2013 13:56:47 UTC] WordPress database error Duplicate key name 'type_status_date' for query ALTER TABLE wp_posts ADD KEY type_status_date (post_type,post_status,post_date,ID) made by wp_upgrade, make_db_current_silent, dbDelta

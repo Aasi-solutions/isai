@@ -1,0 +1,297 @@
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+
+		<track>
+			<title>Bheema : Oru Mugamo</title>
+			<location>http://imayam.org/songs/Bheema/Bheema-OruMugamo.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Azhagiya Tamizh Magan : Ponmagal Vandaal</title>			<location>http://imayam.org/songs/AzhagiyaTamizhMagan/AzhagiyaTamizhMagan-PonmagalVandaal.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Azhagiya Tamizh Magan : Valayapatti Tamizhe</title>		<location>http://imayam.org/songs/AzhagiyaTamizhMagan/AzhagiyaTamizhMagan-ValayapattiTamizhe.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+
+
+        <track>
+			<title>Bheema : Mudhal Mazhai</title>			<location>http://imayam.org/songs/Bheema/Bheema-MudhalMazhai.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track> 
+
+		<track>
+			<title>Sivaji : Athiradee Kaalam</title>
+			<location>http://imayam.org/songs/Sivaji/Sivaji-TheBoss-AthiradeeKaalam.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Sivaji : Oru Koodai Sunlight</title>
+			<location>http://imayam.org/songs/Sivaji/Sivaji-TheBoss-OruKoodaiSunlight.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Sivaji : Sooriyanum Santhira</title>
+			<location>http://imayam.org/songs/Sivaji/Sivaji-TheBoss-SooriyanumSanthira.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Sivaji : Vaaji Vaaji En</title>
+			<location>http://imayam.org/songs/Sivaji/Sivaji-TheBoss-VaajiVaajiEn.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+		<track>
+			<title>Sivaji : Shana Saral Thoo</title>
+			<location>http://imayam.org/songs/Sivaji/Sivaji-TheBoss-ShanaSaralThoo.mp3</location>
+			<info>http://www.dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Chennai 600028 - Saroja Saman Nikalo</title>		<location>http://www.imayam.org/songs/Chennai/Chennai600028-SarojaSamanNikalo.mp3</location>		<info>http://www.google.com/search?hl=en&amp;q=dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Chennai 600028 - Vazhkaiyai Josi</title>		<location>http://www.imayam.org/songs/Chennai/Chennai600028-VazhkaiyaiJosi.mp3</location>		<info>http://www.google.com/search?hl=en&amp;q=dreamminds.net</info>
+		</track>
+
+
+		<track>
+			<title>Unnaale Unnaale - June Pona</title>		<location>http://www.imayam.org/songs/UnnaaleUnnaale/UnnaaleUnnaale-JunePona.mp3</location>		<info>http://www.google.com/search?hl=en&amp;q=dreamminds.net</info>
+		</track>
+
+		<track>
+			<title>Unnaale Unnaale - Hello Miss</title>		<location>http://www.imayam.org/songs/UnnaaleUnnaale/UnnaaleUnnaale-HelloMiss.mp3</location>		<info>http://www.google.com/search?hl=en&amp;q=dreamminds.net</info>
+		</track>
+
+<track>
+<title>Unnaale Unnaale : Mudhal Naal</title>
+<location>http://imayam.org/songs/UnnaaleUnnaale/UnnaaleUnnaale-MudhalNaal.mp3</location>
+<info>http://www.google.com/search?hl=en&q=Unnaale Unnaale</info>
+</track>
+
+<track>
+<title>Unnaale Unnaale : Unnaale Unnaale</title>
+<location>http://imayam.org/songs/UnnaaleUnnaale/UnnaaleUnnaale-UnnaaleUnnaale.mp3</location>
+<info>http://www.google.com/search?hl=en&q=Unnaale Unnaale</info>
+</track>
+
+
+
+		<track>
+			<title>Chithiram Pesuthadi - Vaala Meenu</title>		<location>http://www.imayam.org/songs/ChithiramPesuthadi/ChithiramPesuthadi-Vazha_Meenu.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Chithiram Pesuthadi</info>
+		</track>
+
+		<track>
+			<title>Parthen Rasithen - Parthen</title>
+			<location>http://www.imayam.org/songs/ParthenRasithen/ParthenRasithen-Parthen.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Parthen Rasithen</info>
+		</track>
+		<track>
+			<title>Thamirabharani-Vaartha Onnu</title>			
+			<location>http://www.imayam.org/songs/Thamirabharani/Thaamirabharani-VaarthaOnnu.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Thamirabharani</info>
+		</track>
+
+		<track>
+			<title>PachaiKili Muthucharam-Kaadhal Konjam</title>
+			<location>http://www.imayam.org/songs/PachaiKiliMuthucharam/PachaiKiliMuthucharam-KaadhalKonjam.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Pachaikili Muthucharam</info>
+		</track>
+		<track>
+			<title>PachaiKili Muthucharam-Unn Siripnil</title>
+			<location>http://www.imayam.org/songs/PachaiKiliMuthucharam/PachaiKiliMuthucharam-UnnSiripnil.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Pachai Kili Muthucharam</info>
+		</track>
+		<track>
+			<title>PachaiKili Muthucharam-Unakkul Naan</title>
+			<location>http://www.imayam.org/songs/PachaiKiliMuthucharam/PachaiKiliMuthucharam-UnakkulNaan.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Pachai Kili Muthucharam</info>
+		</track>
+		<track>
+			<title>PachaiKili Muthucharam-Unakkul Naan2</title>
+			<location>http://www.imayam.org/songs/PachaiKiliMuthucharam/PachaiKiliMuthucharam-UnakkulNaan2.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Pachai Kili Muthucharam</info>
+		</track>
+		<track>
+			<title>PachaiKili Muthucharam-Karu Karu</title>
+			<location>http://www.imayam.org/songs/PachaiKiliMuthucharam/PachaiKiliMuthucharam-KaruKaru.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Pachai Kili Muthucharam</info>
+		</track>
+		<track>
+			<title>SillunnuOruKadhal-New York Nagaram</title>			
+			<location>http://www.imayam.org/songs/SillunnuOruKadhal/SillunnuOruKadhal-NewYorkNagaram.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Sillunnu Oru Kadhal</info>
+		</track>
+
+				
+		<track>
+			<title>Karna-Malare Mounama</title>
+			<location>http://www.imayam.org/songs/Karna/Karna-MalareMounama.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Karna</info>
+		</track>
+
+		<track>
+			<title>Veyyil-Uriguthae</title>
+			<location>http://www.imayam.org/songs/Veyyil/Veyyil-Uriguthae.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Veyyil</info>
+		</track>
+
+		<track>
+			<title>Pokkiri-Dole Dole Than</title>			
+			<location>http://www.imayam.org/songs/Pokkiri/Pokkiri-DoleDoleThan.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Pokkiri</info>
+		</track>
+
+		<track>
+			<title>Deepavali-Kadhal Vaithu</title>
+			<location>http://www.imayam.org/songs/Deepavali-KadhalVaithu.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Deepavali</info>
+		</track>
+
+		<track>
+			<title>Deepavali-Pogadhe</title>
+			<location>http://www.imayam.org/songs/Deepavali-Pogadhe.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Deepavali</info>
+		</track>
+				
+		<track>
+			<title>KaadhalarDinam-Enna Vilai</title>
+      <location>http://imayam.org/songs/KaadhalarDinam/Tamilmp3world.Com - Enna Vilai.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Kaadhalar Dinam</info>
+		</track>
+
+		<track>
+			<title>KaadhalarDinam-Kadhalenum</title>
+      <location>http://imayam.org/songs/KaadhalarDinam/Tamilmp3world.Com - Kadhalenum.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Kaadhalar Dinam</info>
+		</track>
+
+		<track>
+			<title>KaadhalarDinam-Roja Roja</title>
+      <location>http://imayam.org/songs/KaadhalarDinam/Tamilmp3world.Com - Roja Roja.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Kaadhalar Dinam</info>
+		</track>
+
+
+		<track>
+			<title>Vaali-AprilMadhaththil</title>
+      <location>http://imayam.org/songs/Vaali/Vaali-AprilMadhaththil.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vaali</info>
+		</track>
+		<track>
+			<title>Vaali-Nilava</title>
+      <location>http://www.imayam.org/songs/Vaali/Vaali-Nilava.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vaali</info>
+		</track>
+		<track>
+			<title>Vaali-Oh! Sona</title>
+      <location>http://imayam.org/songs/Vaali/Vaali-Oh!Sona.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Vaali</info>
+		</track>		
+		
+		<track>
+			<title>Dishyum-Nenja Gootil Nee</title>
+            <location>http://imayam.org/songs/Dishyum/Dishyum-NenjagootilNee.mp3</location>
+		<info>http://www.google.com/search?hl=en&amp;q=Dishyum</info>
+		</track>
+
+		<track>
+			<title>EmMagan-Koligundu Kannu</title>
+            <location>http://imayam.org/songs/EmMagan/EmMagan-KoligunduKannu.mp3</location>
+		<info>http://www.google.com/search?hl=en&amp;q=EmMagan</info>
+		</track>
+		<track>
+			<title>ArinthumAriyamalum-KonjamKonjam</title>
+			<location>http://www.imayam.org/songs/ArinthumAriyamalum/ArinthumAriyamalum-KonjamKonjam.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Arinthum Ariyamalum</info>
+		</track>	
+		<track>
+			<title>ArinthumAriyamalum-Theepidikka</title>
+			<location>http://www.imayam.org/songs/ArinthumAriyamalum/ArinthumAriyamalum-Theepidikka.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Arinthum Ariyamalum</info>
+		</track>
+		
+		<track>
+			<title>Ghajini-Oru_Maalai</title>            <location>http://imayam.org/songs/Ghajini/Ghajini-Oru_Maalai.mp3</location>
+		<info>http://www.google.com/search?hl=en&amp;q=Ghajini</info>
+		</track>
+		<track>
+			<title>Ghajini-Sutrum_Vizhi</title>            <location>http://imayam.org/songs/Ghajini/Ghajini-Sutrum_Vizhi.mp3</location>
+		<info>http://www.google.com/search?hl=en&amp;q=Ghajini</info>
+		</track>
+
+		<track>
+			<title>FiveStar-ThiruThiruda</title>
+            <location>http://imayam.org/songs/FiveStar/FiveStar-ThiruThiruda.mp3</location>
+            <info>http://www.google.com/search?hl=en&amp;q=Five Star</info>
+		</track>
+
+
+		<track>
+			<title>FiveStar-RayileRayile</title>
+            <location>http://imayam.org/songs/FiveStar/FiveStar-RayileRayile.mp3</location>
+            <info>http://www.google.com/search?hl=en&amp;q=Five Star</info>
+		</track>
+
+		<track>
+			<title>Indian-TelephoneManiPoll</title>
+<location>http://www.imayam.org/songs/Indian/Indian-TelephoneManiPoll.mp3</location>			<info>http://www.google.com/search?hl=en&amp;q=Indian</info>
+	</track>
+	
+	
+	<track>
+			<title>KannathilMuthamittal-VellaiPookkal</title>
+			<location>http://www.imayam.org/songs/KannathilMuthamittal/KannathilMuthamittal-VellaiPookkal.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Kannathil Muthamittal</info>
+	</track>
+	
+		<track>
+			<title>Bombay-Kannalanee</title>
+<location>http://www.imayam.org/songs/Bombay/Bombay-Kannalanee.mp3</location>			<info>http://www.google.com/search?hl=en&amp;q=Bombay</info>
+	</track>
+	
+		<track>
+			<title>KannathilMuthamittal-OruDeivam</title>			<location>http://www.imayam.org/songs/KannathilMuthamittal/KannathilMuthamittal-OruDeivam(M).mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=Kannathil Muthamittal</info>
+	</track>
+
+	<track>
+			<title>AlaiPayuthey-Snehidhane</title>
+			<location>http://www.imayam.org/songs/AlaiPayuthey/AlaiPayuthey-snehidhane.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=AlaiPayuthey</info>
+	</track>
+	
+	
+		<track>
+			<title>ThirudaThiruda-KannumKannum</title>
+			<location>http://www.imayam.org/songs/ThirudaThiruda/ThirudaThiruda-Kannum_Kannum.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=ThirudaThiruda</info>
+	</track>
+
+	<track>
+			<title>ThirudaThiruda-Raasathi</title>
+			<location>http://www.imayam.org/songs/ThirudaThiruda/ThirudaThiruda-Raasathi.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=ThirudaThiruda</info>
+	</track>
+	
+		<track>
+			<title>AhAah-Mayilirage</title>
+			<location>http://imayam.org/songs/AhAah/Mayilirage.mp3</location>
+			<info>http://www.google.com/search?hl=en&amp;q=AhAah</info>
+	</track>
+
+		<track>
+			<title>Kannil Enna</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/Kannil_Enna.mp3</location>
+		</track>
+		<track>
+			<title>Mounamaneram</title>
+			<location>http://imayam.org/songs/IllayaraajaHits/Duets/Salangaioli-Mounamaneram.mp3</location>
+		</track>
+
+
+	</trackList>
+</playlist>

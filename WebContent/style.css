@@ -1,0 +1,63 @@
+td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Tahoma;
+	font-size:11px;
+	color:#000000;
+}
+
+form
+{
+	margin:0px;
+}
+a {
+	text-decoration: underline;
+	color:#1E4196;
+}
+a.menu {
+	text-decoration: none;
+	color:#5F5F5F;
+	font-size:13px;
+	font-weight:bold;
+	font-family:Tahoma;
+}
+
+a.menulink2 {
+	text-decoration: underline;
+	color:#1E4196;
+	font-weight:bold;
+	font-family:Tahoma;
+}
+
+.style1 {
+	color: #FFFFFF;
+	font-weight: bold;
+	
+}
+.style2 {
+	color: #8C1313;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.direc {
+	text-decoration: underline;
+	color:#1E4196;
+	font-weight:bold;
+	font-family:Tahoma;
+}
+
+H1 {
+	color: #8C1313;
+	font-weight: bold;
+	font-size : 16px;
+}
+h4
+{
+color: red;
+}
+#image
+{
+height:150px;
+width:100px;
+} 

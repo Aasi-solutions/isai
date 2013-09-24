@@ -1,0 +1,10 @@
+Sorry, an unexpected error has occurred or you are not authorized to view this page. <br>
+Please go to... <br>
+<a href="http://www.imayam.org">Imayam Home Page</a><br>
+
+<br>
+Your IP : <!--#echo var="REMOTE_ADDR" -->
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                      
+--> 

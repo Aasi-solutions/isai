@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<title>TR Songs</title>
+	<info>http://songs.imayam.org/</info>
+	<trackList>
+
+		<track>
+			<title>Mythili Ennai Kaathali : Salangai Ittaal Oru Maathu</title>	<location>http://www.imayam.org/songs/MythiliEnnaiKaathali/MythiliEnnaiKaadhali-SalangaiIttaalOru.mp3</location>
+		</track>
+		<track>
+			<title>Mythili Ennai Kaathali : Engum Mythili</title>	<location>http://www.imayam.org/songs/MythiliEnnaiKaathali/MythiliEnnaiKaathali-EngumMythili.mp3</location>
+		</track>
+		<track>
+			<title>Mythili Ennai Kaathali : Kannirel</title>	<location>http://www.imayam.org/songs/MythiliEnnaiKaathali/MythiliEnnaiKaathali-Kannirel.mp3</location>
+		</track>
+		<track>
+			<title>Mythili Ennai Kaathali : Naanum Unthan Uravai</title>	<location>http://www.imayam.org/songs/MythiliEnnaiKaathali/MythiliEnnaiKaadhali-NaanumUnthanUravai.mp3</location>
+		</track>
+		<track>
+			<title>Mythili Ennai Kaathali : Raakkala Velaiyile</title>	<location>http://www.imayam.org/songs/MythiliEnnaiKaathali/MythiliEnnaiKaadhali-RaakkalaVelaiyile.mp3</location>
+		</track>
+
+		<track>
+			<title>Oru Thalai Raagam : Kadavul Vazhum</title>	<location>http://www.imayam.org/songs/OruThalaiRaagam/OruThalaiRagam-KadavulVazhum.mp3</location>
+		</track>
+		<track>
+			<title>Oru Thalai Raagam : Ithu Kulandai</title>	<location>http://www.imayam.org/songs/OruThalaiRaagam/OruThalaiRagam-IthuKulandai.mp3</location>
+		</track>
+		<track>
+			<title>Oru Thalai Raagam : Nan Oru</title>	<location>http://www.imayam.org/songs/OruThalaiRaagam/OruThalaiRagam-NanOru.mp3</location>
+		</track>
+		<track>
+			<title>Oru Thalai Raagam : Manmadan</title>	<location>http://www.imayam.org/songs/OruThalaiRaagam/OruThalaiRagam-Manmadan.mp3</location>
+		</track>
+		<track>
+			<title>Oru Thalai Raagam : Kudaiyile</title>	<location>http://www.imayam.org/songs/OruThalaiRaagam/OruThalaiRagam-Kudaiyile.mp3</location>
+		</track>
+		<track>
+			<title>Oru Thalai Raagam : En Kadai</title>	<location>http://www.imayam.org/songs/OruThalaiRaagam/OruThalaiRagam-EnKadai.mp3</location>
+		</track>
+
+</trackList>
+</playlist>
